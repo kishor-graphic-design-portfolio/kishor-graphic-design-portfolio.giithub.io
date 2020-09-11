@@ -1,1 +1,1 @@
-# kishor-graphic-design-portfolio.giithub.io
+# kishor-graphic-design-portfolio.github.io
